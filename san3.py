@@ -1,9 +1,10 @@
-ch=input()
-if(ch=='a'or ch=='A'or ch=='e'or ch=='E'or ch=='i'or ch=='I'or ch=='o'or ch=='O'or ch=='u'or ch=='U')
+Vowels=['a','e','i','o','u']
+Consonants=['b','c','d','f','g','h','j','k','l','m','n','p','q','r','s','t','v','w','x','y','z']
+ch=input('')
+if ch is vowel:
+  print('Vowel')
+elif ch is consonant:
+  print('Cosonant')
 else:
-  print("Vowels")
-elif:
-  print("Cosonants")
-else
-  print("Invalid")
+  print('Invalid')
   
