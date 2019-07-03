@@ -4,7 +4,7 @@ ch=input('')
 if ch in Vowel:
   print('Vowels')
 elif ch in Consonant:
-  print('Cosonant')
+  print('Consonant')
 else:
   print('Invalid')
   
