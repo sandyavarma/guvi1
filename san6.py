@@ -1,6 +1,6 @@
 import calendar
 year = int(input())
 if calendar.isleap(year) == True:
-  print('Yes')
+  print('yes')
 else:
-  print('No')
+  print('no')
