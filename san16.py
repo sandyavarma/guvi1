@@ -1,0 +1,2 @@
+sanstr = input()
+print( sanstr + '.')
