@@ -1,4 +1,4 @@
-m,n =map(list,input().spilt())
+m,n = map(list,input().spilt())
 cou=0
 if(len(m)==len(n))
   for i in range(0,len(m)):
