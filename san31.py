@@ -1,5 +1,5 @@
 n=input()
 if n.isdigit==1:
-  print("Yes")]
+  print("Yes")
 else:
   print("No")
