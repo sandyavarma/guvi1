@@ -4,7 +4,7 @@ m=[]
 for i in range(len(n)):
     if n[i]==i:
         
-        a.append(n[i])
+        m.append(n[i])
 if len(m)==0:
     print(-1)
 else:
